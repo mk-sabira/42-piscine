@@ -1,2 +1,2 @@
 # 42-piscine
-This repo consists project which I could finish within the piscine in 42 Abu Dhabi
+This repository contains a project completed during the piscine at 42 Abu Dhabi.
